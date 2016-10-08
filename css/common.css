@@ -644,9 +644,10 @@ header {
         z-index: 999999;
         top: 72px;
         left: initial;
-        right: -60px;
+        right: -10px;
         color: #b3b39f;
         transform: scale(0.7);
+        width: 170px;
     }
 }
 
